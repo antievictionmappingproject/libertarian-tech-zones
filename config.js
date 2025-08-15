@@ -14,7 +14,7 @@ var config = {
     auto: false,
     title: 'Libertarian Tech Zones',
     subtitle: 'Visualizing Libertarian Tech Zones Around the World',
-    byline: 'By Brian Bui and Edwin Bai with the Anti-Eviction Lab at the University of Washington under the direction of Erin McElroy',
+    byline: 'By Brian Bui and Edwin Bai with the <a href="https://www.antievictionlab.org">Anti-Eviction Lab</a> at the University of Washington under the direction of Erin McElroy',
     footer: 'Anti-Eviction Lab at the University of Washington <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
